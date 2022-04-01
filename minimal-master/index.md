@@ -8,8 +8,6 @@ Generally speaking, my research interest is harmonic analysis and its applicatio
 
 I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in the spare time of drinking coffee.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 ## Education
 
 * September 2021 -- current: Master 2 of "Master mathématiques et applications", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at Université Paris Cité, France
